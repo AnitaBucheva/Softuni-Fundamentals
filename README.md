@@ -1,2 +1,2 @@
-# Softuni-Fundamentals
+# Softuni-Fundamentals-JavaScript
 Fundamentals-JavaScript
